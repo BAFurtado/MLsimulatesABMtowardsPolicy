@@ -1,0 +1,3 @@
+Confusion Matrix SVC:
+ [[2604    0]
+ [ 165    0]].
